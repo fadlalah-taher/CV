@@ -11,7 +11,9 @@ header{
 div{
     margin-left: 20%;
 }
-
+header, p{
+    margin-top: -1%;
+}
 body{
     background-color: rgb(210, 216, 216);
     margin: 0;
@@ -26,7 +28,7 @@ footer{
 }
 table{
     border: 2px solid;
-    width: 50%;
+    width: 80%;
     text-align: center;
 }
 th{
